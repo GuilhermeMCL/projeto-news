@@ -57,18 +57,22 @@ h1, h2,h3 {
 }
 
 
-.grid{
-    display: grid;
-}
+img{
 
-.grid-flow-col{
-    grid-auto-flow:column ;
-}
+    max-width: 100%;
 
+}
 
 .container{
     max-width: 1280px;
     padding-inline: 32px ;
     margin-inline-start: auto;
 
+
+}
+
+
+main{
+
+    margin-top: 40px;
 }
